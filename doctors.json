@@ -1,0 +1,20 @@
+{
+  "clarissa": {
+    "doctorName": "Dra. Clarissa Noer",
+    "clinicName": "Clínica Pediátrica",
+    "botName": "Fadinha Cientista",
+    "specialty": "Pediatria"
+  },
+  "roberto": {
+    "doctorName": "Dr. Roberto Müller",
+    "clinicName": "Clínica Urológica",
+    "botName": "Assistente IA",
+    "specialty": "Urologia"
+  },
+  "juliana": {
+    "doctorName": "Dra. Juliana Dreyer",
+    "clinicName": "Clínica Pediátrica",
+    "botName": "Assistente IA",
+    "specialty": "Pediatria"
+  }
+}
